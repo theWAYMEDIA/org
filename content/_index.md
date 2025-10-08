@@ -14,7 +14,7 @@ keywords: ["wayism", "wayist", "butterfly path", "soul evolution", "spiritual ph
 
 ### What is Wayism?
 
-Wayism is an ancient existential philosophy recognizing that **all humans** are on a sacred journey. We call this the *Butterfly Path* because, like a caterpillar transforms into a butterfly, human souls evolve into immortal spiritual beings.
+Wayism is an ancient existential philosophy recognizing that **all humans** are on a sacred journey. We call this the *Butterfly Path* because, like a caterpillar transforms into a butterfly, human souls evolve into immortal spiritual beings -- this is the purpose and meaning of life.
 
 This is not metaphor—it describes the literal purpose of human existence: souls incarnate as humans to attend Earth's school of divinity, learning through direct experience to eventually graduate as immortal spiritual beings capable of cosmic service.
 
