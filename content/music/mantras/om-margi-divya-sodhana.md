@@ -20,11 +20,17 @@ The Om Mārgi Divya Sodhana is a healing mantra in the Wayist tradition. Its nam
 
 The mantra works through three movements: light flowing through breath, affliction released through the heart, and divine power drawn down from the celestial realm. These correspond naturally to the three domains recognized in Wayism — the material (breath, body), the soul (heart, emotional reality), and the spirit (divine power from above). It is not a mantra about escaping difficulty but about moving it through, with divine assistance.
 
-It is suited to any practitioner. Those going through illness, grief, or sustained difficulty may find it particularly direct. It can also serve as a support practice for those doing healing work with others.
+It is suited to any practitioner. Those going through illness, grief, or sustained difficulty may find it particularly direct. It is also the mantra most closely associated with Wayist energy healing work — the mantra energy healers use to attune to healing energy and align with their Tara before and during a session.
+
+### The Healer as Channel
+
+This mantra encodes a central principle of Wayist healing: the practitioner is not the healer. Healing flows *through* the heart chakra; it originates from heaven, from the spirit domain, carried by the Taras — both the healer's Tara and the recipient's Tara working in concert. The healer is a tool of the trade, a conduit who has cleared themselves sufficiently to allow the transmission. This is why the language of the mantra is passive and invocatory rather than active: *affliction is purified* (not "I purify"); *let divine power flow* (not "I send power"). The mantra orients the healer correctly — receptive, open, aligned — so that what needs to flow can flow.
+
+This understanding removes the burden of outcome from the healer's shoulders. The healer's work is attunement. The healing itself belongs to a power larger than the individual.
 
 **Tradition:** Wayist Traditional
-**Practice context:** Healing practice; sitting meditation; support for illness or difficulty
-**Suitable for:** All practitioners
+**Practice context:** Energy healing (attunement and Tara alignment); healing practice; sitting meditation; support for illness or difficulty
+**Suitable for:** All practitioners; energy healers before and during sessions
 
 ---
 
@@ -74,7 +80,7 @@ The cleansing is not willed or forced — *śodhyate* is passive voice. The hear
 
 The third line shifts register: where the first two lines describe what happens, this line invokes it. It is a call directed upward and outward — to the spirit domain, to the Divine, to whatever stands in the healing role for this person. In Wayist understanding, that is one's Divine Tara.
 
-The closing *svaḥ* is not the familiar ritual exclamation *svāhā* but the Vedic utterance for the celestial realm — a precise word pointing to where healing power originates.
+The closing *svaḥ* is not the familiar ritual exclamation *svāhā* but the Vedic utterance for the celestial realm — a precise word pointing to where healing power originates. Western listeners often hear it rendered as *shava* in recordings, which is how it frequently sounds when sung; the spelling *svaḥ* is correct. Exact pronunciation matters less than most people assume — what matters is the attunement happening during recitation, not phonetic precision.
 
 ---
 
@@ -120,7 +126,9 @@ The mantra has three lines and is traditionally recited six complete times, foll
 
 **Repetition:** Six repetitions is the traditional count for this mantra. As with any mantra, consistency over time matters more than duration in a single session.
 
-**In healing contexts:** The mantra may be recited by the person in difficulty, by someone supporting them, or by both together. It is not a replacement for medical care.
+**In healing contexts:** Begin with the mantra before the session to attune and invite Tara presence. It may also be recited quietly during the session. The recipient may recite it with the healer, or simply receive. It is not a replacement for medical care.
+
+**On pronunciation:** Do not let unfamiliarity with Sanskrit become an obstacle. The sounds serve the attunement; the attunement is the practice. *Svaḥ* is often heard as *shava* in recordings — follow what you hear and let the meaning carry the rest.
 
 ---
 
