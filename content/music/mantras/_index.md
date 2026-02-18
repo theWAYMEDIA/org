@@ -28,7 +28,9 @@ Repetition is not the purpose — attention is. The mantra is the vehicle, not t
 
 ## Mantras in This Collection
 
-*[Placeholder: As recordings and teaching notes are prepared, individual mantra pages will be listed here with direct links.]*
+### [Om Mārgi Divya Sodhana](/music/mantras/om-margi-divya-sodhana/)
+A healing mantra calling divine purifying power through breath and heart. Three lines, six repetitions. Recorded by Collectivo Mariposa.
+*Sanskrit — Wayist Traditional*
 
 ---
 

@@ -6,7 +6,9 @@ draft: true
 
 # Music metadata
 artist: "[Artist or ensemble name]"
+artist_url: "[URL to artist page on wayism.net or streaming platform]"
 language: "[Sanskrit / Pali / English / Chinese / other]"
+copyright: "[e.g., Music © 20XX theWAY Media]"
 ---
 
 *[← Back to Mantras](/music/mantras/)*
@@ -17,46 +19,70 @@ language: "[Sanskrit / Pali / English / Chinese / other]"
 
 *[Placeholder: Explain the origin of this mantra, its place in the Wayist tradition, and what practitioner it is suited for. Note which Divine Tara or aspect of theWAY it addresses, if applicable. Keep to what is actually known — do not speculate.]*
 
-**Tradition:** *[e.g., Mahamarga / DaoFa / Theravada heritage]*
-**Practice context:** *[e.g., Dayspring Ritual / sitting meditation / Attitude of Meditation]*
-**Suitable for:** *[e.g., beginners / established practitioners / community recitation]*
+**Tradition:** *[e.g., Mahamarga / DaoFa / Wayist Traditional]*
+**Practice context:** *[e.g., Dayspring Ritual / healing practice / sitting meditation / Attitude of Meditation]*
+**Suitable for:** *[e.g., all practitioners / those in difficulty / established practitioners]*
+
+---
+
+## Meaning
+
+*[Placeholder: Word-by-word or phrase-by-phrase breakdown of the mantra text. This section is for understanding what is actually being said — linguistic and conceptual, not speculative. Include a brief note on any significant interpretive choices. Omit this section only if the mantra is a single syllable or has no translatable content.]*
+
+---
+
+## History
+
+*[Placeholder: Include this section only when there is something reliable to say — canonical source, documented tradition, known composer, or cultural context. If the origin is simply "Wayist Traditional," a brief note suffices or the section can be omitted entirely.]*
+
+---
+
+## Listen
+
+*[Placeholder: If the mantra is recorded and available on commercial music platforms, link to the artist page here. If it is only available via Podbean, remove this section and use the Audio section below.]*
+
+Recorded by **[Artist name]** — available on major streaming platforms:
+
+**[Artist page →]([artist_url])**
 
 ---
 
 ## Audio
 
-*[Placeholder: Remove this note and add the podbean shortcode below when a recording is available.]*
+*[Placeholder: Remove this note and add the podbean shortcode below when a Podbean recording is available. If the primary release is on commercial platforms, this section is optional.]*
 
 {{< podbean episode="[podbean-episode-id]" title="[Mantra Name]" >}}
 
 ---
 
-## Text and Transliteration
+## Mantra Text
+
+### Transliteration (IAST)
+
+*[Placeholder: The mantra text in standard IAST transliteration. Present as it is recited — one complete pass, not all repetitions.]*
 
 ### Original Script
 
-*[Placeholder: Insert the mantra text in its original script — Sanskrit Devanagari, Chinese characters, Pali script, or other.]*
-
-### Transliteration
-
-*[Placeholder: Insert a standard transliteration into Latin script, using IAST for Sanskrit, Pinyin for Chinese, or the appropriate standard for the language.]*
+*[Placeholder: The mantra in its original script — Devanagari for Sanskrit, Chinese characters, Pali script, or other. Omit if unavailable.]*
 
 ### Translation
 
-*[Placeholder: Provide a close English translation, not a loose paraphrase. Note any significant interpretive choices.]*
+*[Placeholder: A close English translation. Prefer line-by-line. Note any lines where a literal rendering is awkward and the choice made.]*
 
 ---
 
 ## How to Recite This Mantra
 
-*[Placeholder: Note any pronunciation guidance for non-native speakers, the traditional number of repetitions if applicable (e.g., 3, 7, 108), whether it is typically recited silently or aloud, and any other practice guidance drawn from the tradition.]*
+*[Placeholder: Pronunciation guidance for non-native speakers, traditional number of repetitions (e.g., 3, 7, 108), whether recited silently or aloud, and any other practice guidance from the tradition.]*
 
 ---
 
 ## Further Reading
 
-*[Placeholder: Link to related pages on wayism.org, relevant books in the /books/ section, or external sources where the practitioner can learn more about this mantra's tradition.]*
+*[Placeholder: Link to related pages on wayism.org — the practice, healing, or philosophical topic this mantra connects to — and any relevant books in the /books/ section.]*
 
 ---
+
+*© [year] theWAY Media. Traditional melody: public domain.*
 
 *[← Back to Mantras](/music/mantras/)*
