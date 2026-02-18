@@ -36,8 +36,14 @@ Each person has a Divine Tara — a personal guide who has walked the Butterfly 
 **The Butterfly Path**
 The Butterfly Path is the Wayist name for the journey of soul evolution — the long arc across many lifetimes through which a soul develops into an immortal spirit. The caterpillar-to-butterfly image is central: the caterpillar does not cease to exist when it becomes a butterfly; it transforms. Death is the cocoon stage — a transition from one form of existence to the next. *We built our wings together, darling / Now your wings are finally ready / To fly to that holy place.*
 
-**Sukhavati — Paradise**
-The song's "Paradise" is Sukhavati, the celestial realm of rest and reunion in Wayist cosmology. Souls who have completed an incarnation rest in Sukhavati between lives, in the presence of loved ones who have preceded them. Reunion is real and expected. *We'll meet again in Paradise / On the Butterfly Path in Paradise / Where love has no end.*
+**Paradise and Sukhavati**
+The song uses "Paradise" as a general term for the afterlife realm, but in Wayism these are two distinct places with different roles.
+
+*Paradise* (Purusthana) is the intermediate soul heaven within the Psychomesion — the great realm between the material and spiritual domains. When a soul completes an incarnation, it goes to Paradise to rest, review the life just lived, integrate its wisdom, and eventually prepare for the next incarnation. This is where the reunion the singer promises actually takes place: *Until we walk together again / On the Butterfly Path in Paradise.* Both people will pass through Paradise between their lifetimes. Meeting there is real and expected.
+
+*Sukhavati* — the Land of Pure Bliss — is further along. It is not a rest stop between lives but the graduation realm: where souls arrive after completing the Butterfly Path entirely, reborn as immortal spiritual beings in active cosmic service. Divine Taras live in Sukhavati. The Butterfly Path leads there, but most souls pass through Paradise many times on the way.
+
+When the song says *On the Butterfly Path in Paradise*, it holds both meanings at once — the immediate comfort of reunion in Paradise, and the longer horizon of Sukhavati as the path's destination. For the dying person at the bedside, what matters is the nearer truth: they are not walking into emptiness. Paradise is real, their Tara is there, and the people they love will follow.
 
 **Death as Graduation**
 Wayism does not view death as punishment, failure, or loss for the one dying. Dying is completing a stage. The soul's wings are *finally ready*. The work of this life is done. This shifts the emotional register of the song from tragedy to a bittersweet completion — grief for the one left behind, but peace for the one departing.
