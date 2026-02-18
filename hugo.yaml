@@ -78,6 +78,9 @@ menu:
     - name: "Practice"
       url: "/practice/"
       weight: 20
+    - name: "Music"
+      url: "/music/"
+      weight: 23
     - name: "Healing-&-Energy"
       url: "/healing/"
       weight: 25
