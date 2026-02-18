@@ -27,7 +27,7 @@ class WayistFAQSearch {
 
     async loadIndex() {
         try {
-            const response = await fetch('/index.json');
+            const response = await fetch('/faq/index.json');
             this.index = await response.json();
         } catch (error) {
             console.error('Failed to load search index:', error);
