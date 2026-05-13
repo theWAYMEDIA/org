@@ -9,7 +9,6 @@ social: []
 training: "Ordained ministry, degrees in world religions, ashram-level Wayist and Pneumatherapy studies in India, certified energy healer, residential care program management"
 ---
 
-# Adéle du Plessis
 *Intuitive Teacher of Transformative Presence*
 
 Adéle du Plessis embodies the Wayist understanding that authentic spiritual wisdom emerges not from comfortable sanctuaries but from life's most challenging moments. Her journey from southern African community work to Asian spiritual traditions demonstrates how divine presence manifests most powerfully through genuine human connection and practical service—a path that speaks to anyone seeking spirituality beyond institutional boundaries.

@@ -1,5 +1,5 @@
 ---
-title: "Teacher +Pradeep (1952-2023)"
+title: "Teacher +Pradeep"
 bio: "A distinguished scholar of Eastern Christianity and Wayism who dedicated his life to preserving and translating sacred texts. Born Pradeep Panicker in Kerala, India, he became known for his meticulous scholarship, serving on the Eastern Bible translation team and as a key member of the Salvar Dàosenglu editorial collective."
 specialties: ["Sacred Text Translation", "Eastern Christianity Scholarship", "Wayist Text Preservation", "Contemplative Curation"]
 books: ["Words of Fire and Light: The Essential Teachings of Beloved +Yusa"]
@@ -9,8 +9,7 @@ social: []
 training: "Ancient Church of the East ordination, decades of study with Beloved +Yusa, Eastern Bible translation project (1989-1996), member of Salvar Dàosenglu editorial collective, extensive scholarship in Eastern Christianity and Wayist traditions"
 ---
 
-# Teacher +Pradeep (1952-2023)
-*Scholar-Devotee, Keeper of Essential Teachings*
+*Scholar-Devotee, Keeper of Essential Teachings (1952–2023)*
 
 Teacher +Pradeep exemplified the Wayist principle that true scholarship emerges from devotional love rather than academic ambition. His life's work centered on a single, profound mission: ensuring that the essential teachings of his beloved master, +Yusa, would not be lost to time but would continue to illuminate seekers for generations to come.
 

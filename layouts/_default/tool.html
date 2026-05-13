@@ -1,0 +1,554 @@
+{{ define "extra_head" }}
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+/* Reset main white-box for tool pages */
+body  { background: #f5f0e8 !important; }
+main  { background: none !important; padding: 0 !important; box-shadow: none !important;
+        border-radius: 0 !important; max-width: none !important; }
+
+/* ── Tool: Hours of Your Life ── */
+:root {
+  --ink: #1a1612;
+  --parchment: #f5f0e8;
+  --parchment-deep: #ebe4d6;
+  --gold: #b8860b;
+  --gold-soft: #d4a84433;
+  --ember: #a0522d;
+  --sage: #5a6e5a;
+  --mist: #8a8578;
+  --breath: #ffffff;
+  --shadow: rgba(26, 22, 18, 0.08);
+}
+
+.tool-container {
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
+  color: var(--ink);
+  line-height: 1.7;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
+
+.tool-header {
+  text-align: center;
+  margin-bottom: 3.5rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid var(--gold-soft);
+}
+
+.tool-header h1 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 300;
+  font-size: clamp(2rem, 5vw, 2.8rem);
+  letter-spacing: 0.02em;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+  text-align: center;
+  border: none;
+}
+
+.tool-header .subtitle {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 1.15rem;
+  color: var(--mist);
+  letter-spacing: 0.03em;
+}
+
+.tool-intro {
+  font-size: 1.05rem;
+  color: var(--ink);
+  margin-bottom: 2.5rem;
+  opacity: 0.85;
+}
+
+.tool-intro p { margin-bottom: 1rem; }
+
+.input-section {
+  background: var(--breath);
+  border: 1px solid var(--parchment-deep);
+  border-radius: 8px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 20px var(--shadow);
+}
+
+.input-section label {
+  display: block;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+  color: var(--ink);
+}
+
+.age-input-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.age-input-row input[type="number"] {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.8rem;
+  font-weight: 400;
+  width: 110px;
+  padding: 0.4rem 0.6rem;
+  border: none;
+  border-bottom: 2px solid var(--gold);
+  background: transparent;
+  color: var(--ink);
+  text-align: center;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+.age-input-row input[type="number"]:focus { border-bottom-color: var(--ember); }
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
+input[type="number"] { -moz-appearance: textfield; }
+
+.btn-calculate {
+  font-family: 'Jost', sans-serif;
+  font-weight: 400;
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.65rem 2rem;
+  background: var(--ink);
+  color: var(--parchment);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.btn-calculate:hover { background: var(--ember); }
+
+.slider-section {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--parchment-deep);
+}
+
+.slider-section label {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: var(--mist);
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.slider-row { display: flex; align-items: center; gap: 1rem; }
+
+.slider-row input[type="range"] {
+  flex: 1;
+  -webkit-appearance: none;
+  appearance: none;
+  height: 3px;
+  background: var(--parchment-deep);
+  border-radius: 2px;
+  outline: none;
+}
+
+.slider-row input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--gold);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.slider-row input[type="range"]::-webkit-slider-thumb:hover { background: var(--ember); }
+
+.slider-value {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: var(--ink);
+  min-width: 70px;
+  text-align: right;
+}
+
+.results { display: none; margin-top: 2rem; }
+
+.results.visible {
+  display: block;
+  animation: hoyl-fadeIn 0.8s ease;
+}
+
+@keyframes hoyl-fadeIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.breakdown { margin-bottom: 2.5rem; }
+
+.breakdown-item {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--parchment-deep);
+  opacity: 0;
+  transform: translateX(-8px);
+}
+
+.breakdown-item.show { animation: hoyl-slideIn 0.5s ease forwards; }
+
+@keyframes hoyl-slideIn { to { opacity: 1; transform: translateX(0); } }
+
+.breakdown-label { font-size: 0.95rem; color: var(--ink); flex: 1; }
+
+.breakdown-years {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--ember);
+  margin-left: 1rem;
+  white-space: nowrap;
+}
+
+.breakdown-bar-wrap {
+  width: 100%;
+  height: 4px;
+  background: var(--parchment-deep);
+  border-radius: 2px;
+  margin-top: 0.4rem;
+  overflow: hidden;
+}
+
+.breakdown-bar {
+  height: 100%;
+  border-radius: 2px;
+  background: var(--gold);
+  width: 0%;
+  transition: width 1.2s ease;
+}
+
+.breakdown-bar.consumed { background: var(--mist); }
+
+.final-reveal {
+  text-align: center;
+  padding: 2.5rem 1.5rem;
+  margin: 2rem 0;
+  background: var(--breath);
+  border: 1px solid var(--gold-soft);
+  border-radius: 8px;
+  box-shadow: 0 4px 30px var(--shadow);
+  opacity: 0;
+}
+
+.final-reveal.show { animation: hoyl-revealFinal 1s ease 0.3s forwards; }
+
+@keyframes hoyl-revealFinal {
+  from { opacity: 0; transform: scale(0.97); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+.final-number {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 300;
+  font-size: clamp(3rem, 8vw, 4.5rem);
+  color: var(--gold);
+  line-height: 1.1;
+  margin-bottom: 0.25rem;
+}
+
+.final-unit {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: var(--mist);
+  letter-spacing: 0.04em;
+}
+
+.final-equivalent { margin-top: 1rem; font-size: 1rem; color: var(--ink); opacity: 0.7; }
+.final-equivalent strong { font-weight: 500; color: var(--ember); }
+
+.wake-up {
+  margin-top: 2.5rem;
+  padding: 2rem;
+  background: linear-gradient(135deg, var(--parchment-deep) 0%, var(--parchment) 100%);
+  border-left: 3px solid var(--gold);
+  border-radius: 0 8px 8px 0;
+  opacity: 0;
+}
+
+.wake-up.show { animation: hoyl-fadeIn 1s ease 0.6s forwards; }
+
+.wake-up p {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.15rem;
+  font-weight: 400;
+  line-height: 1.8;
+  color: var(--ink);
+  margin-bottom: 1rem;
+}
+
+.wake-up p:last-child { margin-bottom: 0; }
+.wake-up em { color: var(--sage); font-style: italic; }
+
+.life-bar-section { margin: 2rem 0; opacity: 0; }
+.life-bar-section.show { animation: hoyl-fadeIn 0.8s ease forwards; }
+
+.life-bar-label {
+  font-size: 0.85rem;
+  color: var(--mist);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.5rem;
+}
+
+.life-bar {
+  width: 100%;
+  height: 32px;
+  background: var(--parchment-deep);
+  border-radius: 4px;
+  overflow: hidden;
+  display: flex;
+}
+
+.life-bar .segment { height: 100%; transition: width 1.5s ease; }
+
+.life-bar .seg-formation { background: #c4b8a8; }
+.life-bar .seg-sleep     { background: #8a8578; }
+.life-bar .seg-eating    { background: #b09070; }
+.life-bar .seg-sanitation{ background: #9a9080; }
+.life-bar .seg-work      { background: #7a7568; }
+.life-bar .seg-chores    { background: #a89888; }
+.life-bar .seg-commute   { background: #988a78; }
+.life-bar .seg-admin     { background: #8a8070; }
+.life-bar .seg-screens   { background: #706860; }
+.life-bar .seg-free      { background: var(--gold); }
+
+.life-bar-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.2rem;
+  margin-top: 0.75rem;
+  font-size: 0.78rem;
+  color: var(--mist);
+}
+
+.legend-item { display: flex; align-items: center; gap: 0.35rem; }
+.legend-dot  { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+
+.age-past-note {
+  font-size: 0.9rem;
+  color: var(--ember);
+  font-style: italic;
+  margin-top: 0.5rem;
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .tool-container { padding: 2rem 1rem 4rem; }
+  .input-section  { padding: 1.5rem; }
+  .age-input-row  { flex-direction: column; align-items: stretch; }
+  .age-input-row input[type="number"] { width: 100%; }
+  .btn-calculate  { width: 100%; }
+}
+
+@media print {
+  .btn-calculate, .slider-section { display: none; }
+  .results, .results * { opacity: 1 !important; animation: none !important; }
+}
+</style>
+{{ end }}
+
+{{ define "main" }}
+<div class="tool-container">
+  <header class="tool-header">
+    <h1>The Hours of Your Life</h1>
+    <div class="subtitle">A contemplation on time, presence, and authentic living</div>
+  </header>
+
+  <div class="tool-intro">
+    <p>We are given a finite number of hours. Most of them are already spoken for — consumed by sleep, by the mechanics of staying alive, by earning our keep, by waiting, by watching. What remains is startlingly small.</p>
+    <p>This is not meant to discourage. It is meant to <em>wake you up</em>.</p>
+  </div>
+
+  <div class="input-section">
+    <label for="age-input">How old are you today?</label>
+    <div class="age-input-row">
+      <input type="number" id="age-input" min="1" max="110" placeholder="age" aria-label="Your current age">
+      <button class="btn-calculate" id="btn-go" onclick="hoylCalculate()">Show me</button>
+    </div>
+    <div class="age-past-note" id="age-note"></div>
+
+    <div class="slider-section">
+      <label>Daily passive screen time (TV, social media, scrolling)</label>
+      <div class="slider-row">
+        <input type="range" id="screen-slider" min="0" max="10" step="0.5" value="4" oninput="hoylUpdateScreenLabel()">
+        <span class="slider-value" id="screen-label">4 hrs</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="results" id="results">
+
+    <div class="life-bar-section" id="life-bar-section">
+      <div class="life-bar-label">Your 75 years — where they go</div>
+      <div class="life-bar" id="life-bar"></div>
+      <div class="life-bar-legend" id="life-bar-legend"></div>
+    </div>
+
+    <div class="breakdown" id="breakdown"></div>
+
+    <div class="final-reveal" id="final-reveal">
+      <div class="final-number" id="final-hours">—</div>
+      <div class="final-unit" id="final-unit">hours of unobligated, waking life</div>
+      <div class="final-equivalent" id="final-equiv"></div>
+    </div>
+
+    <div class="wake-up" id="wake-up">
+      <p>That number is your treasury. Not decades from now — <em>starting this morning</em>.</p>
+      <p>But here is what the arithmetic does not capture: <em>every moment can be reclaimed.</em> The hours consumed by eating, walking, washing — they are not inherently lost. They are lost only when you are absent from them. A meal eaten with full presence is not time subtracted from living; it <em>is</em> living. Washing dishes with awareness is not a chore — it is practice.</p>
+      <p>The Wayist understanding is this: you cannot add hours to your life, but you can add <em>life to your hours</em>. Presence transforms obligation into experience. Awareness turns routine into teaching. Every mundane minute you inhabit fully is a minute stolen back from the ledger of the unlived.</p>
+      <p><em>So — now you know the number. What will you do with the next hour?</em></p>
+    </div>
+  </div>
+</div>
+
+<script>
+function hoylUpdateScreenLabel() {
+  const v = parseFloat(document.getElementById('screen-slider').value);
+  document.getElementById('screen-label').textContent = v + ' hr' + (v !== 1 ? 's' : '');
+  if (document.getElementById('results').classList.contains('visible')) hoylCalculate();
+}
+
+function hoylCalculate() {
+  const ageInput = parseInt(document.getElementById('age-input').value);
+  if (isNaN(ageInput) || ageInput < 1 || ageInput > 110) return;
+
+  const lifespan = 75;
+  const screenHrsPerDay = parseFloat(document.getElementById('screen-slider').value);
+  const formationAge = 16;
+  const workStartAge = 20;
+  const workEndAge = 62;
+
+  const age = Math.min(ageInput, lifespan);
+  const ageNote = document.getElementById('age-note');
+
+  if (ageInput >= lifespan) {
+    ageNote.style.display = 'block';
+    ageNote.textContent = 'You have already surpassed the average lifespan. Every hour is a gift — and you know this better than most.';
+  } else if (ageInput < formationAge) {
+    ageNote.style.display = 'block';
+    ageNote.textContent = 'You are still in your formation years. The fact that you are asking this question already sets you apart.';
+  } else {
+    ageNote.style.display = 'none';
+  }
+
+  const futureYears = Math.max(lifespan - Math.max(age, formationAge), 0);
+  const sleepYears = futureYears * (8 / 24);
+  const wakingFutureYears = futureYears - sleepYears;
+  const eatingYears = futureYears * (3.5 / 24);
+  const sanitationYears = futureYears * (1 / 24);
+  const workYearsAhead = Math.max(0, Math.min(workEndAge, lifespan) - Math.max(age, workStartAge));
+  const workYears = (workYearsAhead * 2250) / 8760;
+  const choresYears = futureYears * (1 / 24);
+  const commuteYears = futureYears * (0.5 / 24);
+  const adminYears = futureYears * (0.5 / 24);
+  const screenYears = futureYears * (screenHrsPerDay / 24);
+  const consumedWaking = eatingYears + sanitationYears + workYears + choresYears + commuteYears + adminYears + screenYears;
+  const freeYears = Math.max(wakingFutureYears - consumedWaking, 0);
+  const freeHours = Math.round(freeYears * 8760);
+  const freeDays = Math.round(freeHours / 16);
+
+  const items = [
+    { label: 'Already lived (formation & past years)', years: age, css: 'consumed' },
+    { label: 'Sleep (8 hours every night)', years: sleepYears, css: 'consumed' },
+    { label: 'Eating, cooking, food shopping', years: eatingYears, css: 'consumed' },
+    { label: 'Sanitation & grooming', years: sanitationYears, css: 'consumed' },
+    { label: 'Working to earn a living', years: workYears, css: 'consumed' },
+    { label: 'Household chores & errands', years: choresYears, css: 'consumed' },
+    { label: 'Non-work commuting & travel', years: commuteYears, css: 'consumed' },
+    { label: 'Admin, waiting, queuing', years: adminYears, css: 'consumed' },
+    { label: 'Passive screen time', years: screenYears, css: 'consumed' },
+  ];
+
+  const breakdownEl = document.getElementById('breakdown');
+  breakdownEl.innerHTML = '';
+  items.forEach((item, i) => {
+    const pct = (item.years / lifespan * 100).toFixed(1);
+    const div = document.createElement('div');
+    div.className = 'breakdown-item';
+    div.innerHTML = `
+      <div style="flex:1">
+        <div class="breakdown-label">${item.label}</div>
+        <div class="breakdown-bar-wrap">
+          <div class="breakdown-bar ${item.css}" id="hoyl-bar-${i}"></div>
+        </div>
+      </div>
+      <div class="breakdown-years">${item.years < 1 ? (item.years * 12).toFixed(0) + ' months' : item.years.toFixed(1) + ' years'}</div>
+    `;
+    breakdownEl.appendChild(div);
+    setTimeout(() => {
+      div.classList.add('show');
+      document.getElementById('hoyl-bar-' + i).style.width = pct + '%';
+    }, 100 + i * 120);
+  });
+
+  const segments = [
+    { cls: 'seg-formation', pct: (formationAge / lifespan * 100), label: 'Formation', color: '#c4b8a8' },
+    { cls: 'seg-sleep',     pct: (sleepYears / lifespan * 100),   label: 'Sleep',      color: '#8a8578' },
+    { cls: 'seg-eating',    pct: (eatingYears / lifespan * 100),  label: 'Eating',     color: '#b09070' },
+    { cls: 'seg-sanitation',pct: (sanitationYears / lifespan * 100), label: 'Sanitation', color: '#9a9080' },
+    { cls: 'seg-work',      pct: (workYears / lifespan * 100),    label: 'Work',       color: '#7a7568' },
+    { cls: 'seg-chores',    pct: (choresYears / lifespan * 100),  label: 'Chores',     color: '#a89888' },
+    { cls: 'seg-commute',   pct: (commuteYears / lifespan * 100), label: 'Commute',    color: '#988a78' },
+    { cls: 'seg-admin',     pct: (adminYears / lifespan * 100),   label: 'Admin',      color: '#8a8070' },
+    { cls: 'seg-screens',   pct: (screenYears / lifespan * 100),  label: 'Screens',    color: '#706860' },
+    { cls: 'seg-free',      pct: (freeYears / lifespan * 100),    label: 'Yours to live', color: '#b8860b' },
+  ];
+
+  const barEl = document.getElementById('life-bar');
+  barEl.innerHTML = '';
+  segments.forEach(seg => {
+    const s = document.createElement('div');
+    s.className = 'segment ' + seg.cls;
+    s.style.width = '0%';
+    barEl.appendChild(s);
+    setTimeout(() => { s.style.width = seg.pct + '%'; }, 300);
+  });
+
+  const legendEl = document.getElementById('life-bar-legend');
+  legendEl.innerHTML = '';
+  segments.forEach(seg => {
+    const li = document.createElement('span');
+    li.className = 'legend-item';
+    li.innerHTML = `<span class="legend-dot" style="background:${seg.color}"></span>${seg.label}`;
+    legendEl.appendChild(li);
+  });
+
+  document.getElementById('final-hours').textContent = freeHours.toLocaleString();
+  if (freeHours <= 0) {
+    document.getElementById('final-unit').textContent = 'The ledger says zero. But presence has no ledger.';
+    document.getElementById('final-equiv').innerHTML = '';
+  } else {
+    document.getElementById('final-unit').textContent = 'hours of unobligated, waking life remaining';
+    document.getElementById('final-equiv').innerHTML =
+      `That is roughly <strong>${freeYears.toFixed(1)} years</strong>, or <strong>${freeDays.toLocaleString()} waking days</strong>.`;
+  }
+
+  document.getElementById('results').classList.add('visible');
+  setTimeout(() => { document.getElementById('life-bar-section').classList.add('show'); }, 200);
+  setTimeout(() => { document.getElementById('final-reveal').classList.add('show'); }, items.length * 120 + 600);
+  setTimeout(() => { document.getElementById('wake-up').classList.add('show'); }, items.length * 120 + 1200);
+  setTimeout(() => { document.getElementById('results').scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 400);
+}
+
+document.getElementById('age-input').addEventListener('keydown', function(e) {
+  if (e.key === 'Enter') hoylCalculate();
+});
+</script>
+{{ end }}

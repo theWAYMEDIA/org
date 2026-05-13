@@ -9,7 +9,6 @@ social: []
 training: "Seminary training, advanced degrees in comparative religion, ordained ministry, ashram-level studies in India, Vietnam, Thailand and Cambodia, senior editor of first English Eastern Bible edition"
 ---
 
-# Jean Prieur du Plessis
 *Scholar-Storyteller of Transformative Wisdom*
 
 Jean Prieur du Plessis embodies the Wayist principle that authentic spiritual development often begins with deep questioning rather than easy answers. His decades-long journey from Christian searching to Wayist understanding illustrates how genuine seeking can lead from religious confusion to spiritual clarity—a path that resonates with millions who sense there's something more to spiritual life than conventional religion offers.

@@ -9,8 +9,6 @@ social: []
 training: "Collective lifetimes of advanced training in Wayism, Buddhism, Yogi Philosophy, Christian theology, and Mysticism of World Religions across multiple continents and cultures"
 ---
 
-# Salvar Dàosenglu
-
 Salvar Dàosenglu represents something unprecedented in spiritual literature—a collective authorial consciousness that transcends individual identity to serve the preservation and restoration of ancient Wayist wisdom. This is not a single person but a collaborative voice emerging from dedicated monks spanning India, China, Western Europe, Canada, and the USA, united in their sacred mission to restore Primary Teaching during the present renewal.
 
 ## The Collective Voice

@@ -7,6 +7,7 @@
     <meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
     <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
     {{ if eq .Section "blog" }}<link rel="stylesheet" href="{{ "css/blog.css" | absURL }}">{{ end }}
+    {{ block "extra_head" . }}{{ end }}
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 	<meta http-equiv="Pragma" content="no-cache">
 	<meta http-equiv="Expires" content="0">
@@ -39,7 +40,7 @@
     
     <footer>
         <p>&copy; 2024 Wayism. Ancient wisdom for modern seekers.</p>
-		<p><a href="/glossary/" class="glossary-highlight">📖 Glossary</a></p>
+		<p><a href="/glossary/" class="glossary-highlight">📖 Glossary</a> &nbsp;·&nbsp; <a href="/hours-of-your-life/">⏳ The Hours of Your Life</a></p>
     </footer>
 </body>
 </html>
