@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="authors-page">
+  <h1>Authors &amp; Teachers</h1>
+  <p class="authors-intro">Scholars and practitioners sharing wisdom from theWAY</p>
+
+  <div class="authors-grid">
+    {{ range .Pages }}
+    <div class="author-card">
+      <div class="author-card-header">
+        {{ if .Params.image }}
+        <img class="author-card-photo" src="{{ .Params.image }}" alt="{{ .Title }}">
+        {{ end }}
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      </div>
+      {{ if .Params.bio }}
+      <p class="author-card-bio">{{ .Params.bio | truncate 140 }}</p>
+      {{ end }}
+      <a href="{{ .Permalink }}" class="author-card-link">View profile &amp; articles →</a>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

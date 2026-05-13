@@ -1,0 +1,61 @@
+{{ define "main" }}
+<article class="post-article">
+
+  <header class="post-header">
+    <h1>{{ .Title }}</h1>
+
+    <div class="post-meta-bar">
+      {{ if .Date }}
+      <span><time>{{ .Date.Format "2 January 2006" }}</time></span>
+      {{ end }}
+
+      {{ if .Params.author }}
+      <span>by <a href="/blog/authors/{{ .Params.author | urlize }}/">{{ .Params.author }}</a></span>
+      {{ end }}
+
+      {{ if .Params.categories }}
+      <span>{{ if reflect.IsSlice .Params.categories }}{{ index .Params.categories 0 }}{{ else }}{{ .Params.categories }}{{ end }}</span>
+      {{ end }}
+
+      {{ if .Params.word_count }}
+      <span>{{ .Params.word_count }} words</span>
+      {{ end }}
+    </div>
+
+    {{ if .Params.excerpt }}
+    <div class="post-excerpt-block">{{ .Params.excerpt | markdownify }}</div>
+    {{ end }}
+  </header>
+
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+
+  <footer class="post-footer">
+    {{ if .Params.tags }}
+    <div class="post-tags-section">
+      <strong>Topics:</strong>
+      {{ range .Params.tags }}
+      <span class="post-tag">{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{ if .Params.related_concepts }}
+    <div class="post-concepts-section">
+      <strong>Related Concepts:</strong>
+      {{ range .Params.related_concepts }}
+      <span class="post-concept">{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{ if .Params.difficulty_level }}
+    <div class="post-level-section">
+      <strong>Level:</strong> <span class="difficulty-badge">{{ .Params.difficulty_level }}</span>
+    </div>
+    {{ end }}
+  </footer>
+
+</article>
+{{ end }}

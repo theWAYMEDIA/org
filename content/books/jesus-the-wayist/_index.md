@@ -15,6 +15,8 @@ book_weight: 21
 
 ### Discovering the original teaching of conscious spiritual evolution
 
+**"When leaders invoke Christ and the god of Judaism to justify war, millions of Christians are asking: is this really what he taught? This book answers that question."**
+
 The book that is changing how lukewarm and ex-Christians understand the world and reclaim their spirituality.
 
 Ever feel like something's missing in religious teaching? Like there's a deeper truth behind all the doctrine and rules? You're not alone. Millions of people sense there's something more authentic, more transformative than what religion offers.

@@ -1,0 +1,105 @@
+{{ define "main" }}
+<div class="author-profile">
+
+  <header class="author-profile-header">
+    {{ if .Params.image }}
+    <img class="author-profile-photo" src="{{ .Params.image }}" alt="{{ .Title }}">
+    {{ end }}
+    <div class="author-profile-info">
+      <h1>{{ .Title }}</h1>
+      {{ if .Params.bio }}
+      <p class="author-profile-bio">{{ .Params.bio | markdownify }}</p>
+      {{ end }}
+    </div>
+  </header>
+
+  {{ if .Params.specialties }}
+  <div class="author-section">
+    <h3>Areas of Expertise</h3>
+    <ul>
+      {{ range .Params.specialties }}
+      <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+  {{ if .Params.training }}
+  <div class="author-section">
+    <h3>Training &amp; Development</h3>
+    <p>{{ .Params.training | markdownify }}</p>
+  </div>
+  {{ end }}
+
+  {{ if .Params.wayist_path }}
+  <div class="author-section">
+    <h3>Wayist Journey</h3>
+    <p>{{ .Params.wayist_path | markdownify }}</p>
+  </div>
+  {{ end }}
+
+  {{ if .Params.books }}
+  <div class="author-section">
+    <h3>Published Works</h3>
+    <ul>
+      {{ range .Params.books }}
+      <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+  {{ if .Content }}
+  <div class="author-content">
+    {{ .Content }}
+  </div>
+  {{ end }}
+
+  <!-- Articles by this author -->
+  <div class="author-articles-section">
+    <h2>Articles by {{ .Title }}</h2>
+    {{ $authorName := .Title }}
+    {{ $authorSlug := .File.BaseFileName }}
+    {{ $posts := where .Site.RegularPages "Section" "blog" }}
+    {{ $posts = where $posts "Kind" "page" }}
+    {{ $authorPosts := slice }}
+    {{ range $posts }}
+      {{ if or (eq (.Params.author | urlize) $authorSlug) (eq .Params.author $authorName) }}
+        {{ $authorPosts = $authorPosts | append . }}
+      {{ end }}
+    {{ end }}
+    {{ if $authorPosts }}
+    <div class="posts-grid">
+      {{ range $authorPosts.ByDate.Reverse }}
+      <article class="post-card">
+        {{ if .Params.featured_image }}
+        <div class="post-card-image">
+          <a href="{{ .Permalink }}">
+            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" loading="lazy">
+          </a>
+        </div>
+        {{ end }}
+        <div class="post-card-body">
+          <div class="post-card-meta">
+            {{ if .Date }}<time>{{ .Date.Format "2 January 2006" }}</time>{{ end }}
+            {{ if .Params.categories }}
+            <span class="meta-sep">·</span>
+            <span class="post-category">{{ if reflect.IsSlice .Params.categories }}{{ index .Params.categories 0 }}{{ else }}{{ .Params.categories }}{{ end }}</span>
+            {{ end }}
+          </div>
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          {{ if .Params.excerpt }}
+          <p class="post-card-excerpt">{{ .Params.excerpt }}</p>
+          {{ end }}
+          <a href="{{ .Permalink }}" class="read-more-link">Read more</a>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+    {{ else }}
+    <p>Articles will appear here as they are published.</p>
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}

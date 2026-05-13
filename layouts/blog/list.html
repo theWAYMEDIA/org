@@ -1,0 +1,54 @@
+{{ define "main" }}
+<div class="blog-header">
+  <h1>Wayist Blog</h1>
+  <p class="blog-tagline">Ancient wisdom for modern seekers — from scholars and practitioners of theWAY</p>
+</div>
+
+<nav class="blog-nav">
+  <a href="/blog/">All Posts</a>
+  <a href="/blog/authors/">Authors</a>
+  <a href="/categories/">Categories</a>
+  <a href="/tags/">Topics</a>
+</nav>
+
+{{ if .Content }}
+<div class="blog-intro">{{ .Content }}</div>
+{{ end }}
+
+<div class="posts-grid">
+  {{ $posts := where .Site.RegularPages "Section" "blog" }}
+  {{ $posts = where $posts "Kind" "page" }}
+  {{ $posts = where $posts "Params.date" "ne" nil }}
+  {{ range $posts.ByDate.Reverse }}
+  {{ if not (eq .File.Dir "blog/authors/") }}
+  <article class="post-card">
+    {{ if .Params.featured_image }}
+    <div class="post-card-image">
+      <a href="{{ .Permalink }}">
+        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" loading="lazy">
+      </a>
+    </div>
+    {{ end }}
+    <div class="post-card-body">
+      <div class="post-card-meta">
+        {{ if .Date }}<time>{{ .Date.Format "2 January 2006" }}</time>{{ end }}
+        {{ if .Params.author }}
+        <span class="meta-sep">·</span>
+        <span class="post-author">by <a href="/blog/authors/{{ .Params.author | urlize }}/">{{ .Params.author }}</a></span>
+        {{ end }}
+        {{ if .Params.categories }}
+        <span class="meta-sep">·</span>
+        <span class="post-category">{{ if reflect.IsSlice .Params.categories }}{{ index .Params.categories 0 }}{{ else }}{{ .Params.categories }}{{ end }}</span>
+        {{ end }}
+      </div>
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      {{ if .Params.excerpt }}
+      <p class="post-card-excerpt">{{ .Params.excerpt }}</p>
+      {{ end }}
+      <a href="{{ .Permalink }}" class="read-more-link">Read more</a>
+    </div>
+  </article>
+  {{ end }}
+  {{ end }}
+</div>
+{{ end }}
