@@ -1,0 +1,47 @@
+{{ define "main" }}
+<article class="artist-page">
+
+    <div class="artist-header">
+        {{ if .Params.photo }}
+        <img src="{{ .Params.photo }}" alt="{{ .Title }}" class="artist-photo">
+        {{ end }}
+        <div class="artist-header-info">
+            <h1>{{ .Title }}</h1>
+            {{ with .Params.genre }}<p class="artist-genre">{{ . }}</p>{{ end }}
+            {{ with .Params.label }}<p class="artist-label">Released under {{ . }}</p>{{ end }}
+            {{ with .Params.wayist_thread }}<blockquote class="artist-thread">{{ . }}</blockquote>{{ end }}
+        </div>
+    </div>
+
+    <div class="artist-bio">
+        {{ .Content }}
+    </div>
+
+    {{ if .Pages }}
+    <div class="artist-discography">
+        <h2>Tracks</h2>
+        <ul class="track-list">
+        {{ range .Pages.ByTitle }}
+            <li class="track-item">
+                <div class="track-main">
+                    <a href="{{ .Permalink }}" class="track-title">{{ .Title }}</a>
+                    {{ with .Params.subtitle }}<span class="track-subtitle">{{ . }}</span>{{ end }}
+                </div>
+                {{ if .Params.tags }}
+                <div class="track-tags">
+                    {{ range first 4 .Params.tags }}<span class="track-tag">{{ . }}</span>{{ end }}
+                </div>
+                {{ end }}
+                {{ if .Params.languages }}
+                <span class="track-languages">{{ delimit .Params.languages " · " }}</span>
+                {{ end }}
+            </li>
+        {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+
+    <p class="music-back-nav"><a href="/music/">← Back to Music</a></p>
+
+</article>
+{{ end }}

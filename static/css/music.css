@@ -1,0 +1,193 @@
+/* ============================================================
+   Music section styles — wayism.org/music/
+   Warm earth palette: #8b6914 gold · #5d4e37 brown · #f9f7f4 cream
+   ============================================================ */
+
+/* ── Artist page ───────────────────────────────────────────── */
+
+.artist-page {
+    max-width: 780px;
+    margin: 0 auto;
+}
+
+.artist-header {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-bottom: 2.5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #d4c5a9;
+}
+
+.artist-photo {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 4px;
+    flex-shrink: 0;
+    box-shadow: 0 2px 8px rgba(93, 78, 55, 0.2);
+}
+
+.artist-header-info {
+    flex: 1;
+}
+
+.artist-header-info h1 {
+    margin: 0 0 0.4rem 0;
+    font-size: 2rem;
+    color: #3a2e1e;
+}
+
+.artist-genre {
+    font-size: 0.95rem;
+    color: #8b6914;
+    font-weight: 600;
+    margin: 0 0 0.2rem 0;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.artist-label {
+    font-size: 0.85rem;
+    color: #7a6a54;
+    margin: 0 0 1rem 0;
+}
+
+.artist-thread {
+    margin: 0;
+    padding: 0.6rem 1rem;
+    border-left: 3px solid #8b6914;
+    background: #f9f5ed;
+    font-style: italic;
+    color: #5d4e37;
+    font-size: 0.95rem;
+    border-radius: 0 3px 3px 0;
+}
+
+.artist-bio {
+    margin-bottom: 2.5rem;
+    line-height: 1.8;
+    color: #3a2e1e;
+}
+
+.artist-bio blockquote {
+    border-left: 3px solid #c9a84c;
+    padding-left: 1.2rem;
+    color: #5d4e37;
+    font-style: italic;
+    margin: 1.5rem 0;
+}
+
+/* ── Discography / track list ──────────────────────────────── */
+
+.artist-discography {
+    margin-bottom: 2rem;
+}
+
+.artist-discography h2 {
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #5d4e37;
+    border-bottom: 1px solid #d4c5a9;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.track-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.track-item {
+    padding: 0.9rem 0;
+    border-bottom: 1px solid #ede5d5;
+}
+
+.track-item:last-child {
+    border-bottom: none;
+}
+
+.track-main {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.3rem;
+}
+
+.track-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #5d4e37;
+    text-decoration: none;
+}
+
+.track-title:hover {
+    color: #8b6914;
+    text-decoration: underline;
+}
+
+.track-subtitle {
+    font-size: 0.85rem;
+    color: #7a6a54;
+    font-style: italic;
+}
+
+.track-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    margin-top: 0.3rem;
+}
+
+.track-tag {
+    font-size: 0.72rem;
+    background: #f0e8d5;
+    color: #5d4e37;
+    padding: 0.15rem 0.5rem;
+    border-radius: 2px;
+    text-transform: lowercase;
+}
+
+.track-languages {
+    display: block;
+    font-size: 0.78rem;
+    color: #8b6914;
+    margin-top: 0.25rem;
+    letter-spacing: 0.03em;
+}
+
+.music-back-nav {
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}
+
+.music-back-nav a {
+    color: #8b6914;
+    text-decoration: none;
+}
+
+.music-back-nav a:hover {
+    text-decoration: underline;
+}
+
+/* ── Responsive ────────────────────────────────────────────── */
+
+@media (max-width: 600px) {
+    .artist-header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .artist-thread {
+        text-align: left;
+    }
+
+    .artist-photo {
+        width: 140px;
+        height: 140px;
+    }
+}

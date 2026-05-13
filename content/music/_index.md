@@ -38,6 +38,18 @@ Full devotional songs in any language — ancient and contemporary, simple and e
 
 ---
 
+## Artists
+
+Some pieces are best understood through the artist who performs them — their voice, their story, their Wayist thread. Artist pages gather all tracks in one place alongside the biography that gives them context.
+
+### [Chuck Horace](/music/chuck-horace/)
+Country / Norteño-Country — wisdom shown, not taught. The long road home. *"He'd never call it wisdom. He'd just call it Tuesday."*
+
+### [MauriceQ](/music/mauriceq/)
+Smooth jazz and lounge — grief, presence, and the crossing. *"Death is life too."*
+
+---
+
 ## How to Use This Section
 
 Each piece has its own page with:
