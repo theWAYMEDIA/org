@@ -1,0 +1,48 @@
+---
+title: "Om Mārge Tārā Rakṣaṇa"
+subtitle: "Tara Companion Mantra"
+artist: "Collectivo Mariposa"
+tradition: "Wayist Traditional"
+languages: ["Sanskrit"]
+tags: ["mantra", "Tara", "protection", "Sanskrit", "energy work"]
+copyright: "Music © 2026 theWAY Media"
+---
+
+# Om Mārge Tārā Rakṣaṇa
+**Tara Companion Mantra**
+
+Performed by [Collectivo Mariposa](/music/collectivo-mariposa/)
+Music: Wayist Traditional · © 2026 theWAY Media
+
+---
+
+## Lyrics
+
+Om tārāyai naḥ rakṣaṇīṃ dhīmahi
+Bhayaṃ naḥ haraṇī svaḥa
+
+OM...
+On Tara's protection we meditate
+Our fear-remover, unto heaven
+
+---
+
+## Wayist Insight
+
+This ancient mantra is used by millions worldwide. It is a practitioner's daily acknowledgment of the relationship between a human soul and its assigned Tara — the graduated spiritual being who walks beside us as protector and guide.
+
+What makes this distinctly Wayist is the understanding behind it. A Tara is not an abstract meditation deity or a symbolic principle. In Wayist teaching, every human soul has one specific Tara assigned to it — a being who has already completed the Butterfly Path and now serves in heaven's work of soul-guidance. This mantra addresses that actual being.
+
+**Om tārāyai naḥ rakṣaṇīṃ dhīmahi** — *On Tara, our protectress, we meditate.* The word dhīmahi (we meditate) is significant — this is attunement, not petition. We are not begging for protection but aligning ourselves with the protection that is already given.
+
+**Bhayaṃ naḥ haraṇī svaḥa** — *Our fear-remover, unto heaven.* Tara removes bhaya — fear — which in energy work terms means she shields our energy bodies (soul and spirit bodies) from harmful psychic influences. The closing svaḥa directs the mantra upward, acknowledging that this protection flows from heaven.
+
+The mantra is only two lines because the relationship it invokes needs no elaboration. Your Tara already knows you. This is simply the soul turning its attention toward a companion who is always already there.
+
+---
+
+*Mantras marked "Wayist Traditional" are public domain sacred chants preserved within theWAY lineage.*
+*Music production © 2026 theWAY Media. All rights reserved.*
+
+---
+Listen here: https://too.fm/j4p7lnr

@@ -28,6 +28,14 @@ This is why songs appear in gathering contexts, in celebrations of solstices and
 A sacred farewell song for the dying — sung at the bedside by those who love them. Covers the Butterfly Path, Tara's companionship through death, and the promise of reunion in Sukhavati. Performed by lounge singers including Maya Sabda, MariceQ, and Bibimus Cor.
 *English — Claudette Sky*
 
+### [Alle Sind OM](/music/songs/alle-sind-om/)
+"All Are OM" — German devotional version. Flowing community singing in German, carrying the So Ham recognition, the divine family, and the Wayist understanding that all beings are energy and conscious neighbours. Companion to the full teaching dharani.
+*German — High Mountain Story Uncle · © elCamino de Caminismo A.C.*
+
+### [Todos Somos OM](/music/songs/todos-somos-om/)
+"All Are OM" — Spanish devotional version. The same teaching in singable Spanish for Latin American and Caminista communities. Performed by Collectivo Mariposa.
+*Spanish — Wayist Traditional*
+
 ---
 
 *[← Back to Music](/music/)*

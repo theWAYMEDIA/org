@@ -32,6 +32,38 @@ Repetition is not the purpose — attention is. The mantra is the vehicle, not t
 A healing mantra calling divine purifying power through breath and heart. Three lines, six repetitions. Recorded by Collectivo Mariposa.
 *Sanskrit — Wayist Traditional*
 
+### [Om Mārge Bhūmau Jīvanam](/music/mantras/butterfly-path/)
+The Butterfly Path mantra — soul on earth, through transformation, unto heaven. Three Sanskrit lines mapping the entire journey of the soul. Recorded by Collectivo Mariposa.
+*Sanskrit — Wayist Traditional*
+
+### [Oṃ Mārge Prabhāta Vandanam](/music/mantras/dayspring-ritual/)
+The Dayspring Ritual mantra — morning offering of gratitude and intention, aligning with the global Wayist community at sunrise. Recorded by Collectivo Mariposa.
+*Sanskrit / English — Wayist Traditional*
+
+### [Tagesanbruch-Ritualmantra](/music/mantras/dayspring-german/)
+The Dayspring Ritual mantra in German — for German-speaking practitioners. Recorded by Collectivo Mariposa.
+*Sanskrit / German — Wayist Traditional*
+
+### [Mantra del Ritual del Amanecer](/music/mantras/dayspring-spanish/)
+The Dayspring Ritual mantra in Spanish — for Caminista practitioners. Recorded by Collectivo Mariposa.
+*Sanskrit / Spanish — Wayist Traditional*
+
+### [Om Mārge Pitṝṇām Jñānam](/music/mantras/ancestor-continuity/)
+The Ancestor Continuity mantra — honouring the lineage of teachers and the unbroken transmission of teaching across generations.
+*Sanskrit — Wayist Traditional*
+
+### [Om Mārge Tārā Rakṣaṇa](/music/mantras/tara-companion/)
+The Tara Companion mantra — invoking the presence and protection of one's Divine Tara for daily life and energy work. Recorded by Collectivo Mariposa.
+*Sanskrit — Wayist Traditional*
+
+### [Om Mārge Mahāmārga](/music/mantras/mahamarga/)
+The Great Path mantra — affirming identity within the ancient lineage of Wayism across cultures and centuries. Recorded by Collectivo Mariposa.
+*Sanskrit — Wayist Traditional*
+
+### [Om Mārge Kāya Jīva Ātman](/music/mantras/body-soul-spirit/)
+The Body-Soul-Spirit mantra — grounding the Wayist understanding of the three domains in a short daily recitation. Recorded by Collectivo Mariposa.
+*Sanskrit — Wayist Traditional*
+
 ---
 
 *[← Back to Music](/music/)*
