@@ -1,0 +1,8 @@
+<video controls {{ with .Get "width" }}width="{{ . }}"{{ else }}width="100%"{{ end }}
+  {{ with .Get "autoplay" }}autoplay{{ end }}
+  {{ with .Get "loop" }}loop{{ end }}
+  {{ with .Get "muted" }}muted{{ end }}
+  {{ with .Get "poster" }}poster="{{ . }}"{{ end }}>
+  <source src="{{ .Get "src" }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

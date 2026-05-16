@@ -1,0 +1,4 @@
+<audio controls style="width: 100%; max-width: {{ with .Get "width" }}{{ . }}px{{ else }}640px{{ end }}; display: block; margin: 1rem 0;">
+  <source src="{{ .Get "src" }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
