@@ -76,19 +76,22 @@ But no, because **not everyone is ready for this understanding**. Wayism require
 
 Estimates suggest Wayists comprise about 2.5% of the world's population, and this teaching appeals to perhaps 5% of those who encounter it. This is natural—it's an advanced curriculum suited for senior students in the school of divinity.
 
-###Have you walked away from the religions?
+### Have you walked away from the religions?
 
-If you have reached a point in your life in which you rejected the paths of the religions, you may find the following 5 minute clips helpful to understand what is happening, and how you are not alone. We are growing.
 
-**Part 1**
+If you've reached a point in life where you've rejected the paths of religion, you may find these short clips helpful. They explain what's happening — and why you are not alone. We are growing.
+
+
+**Part 1: What if the question is not "Which God?"**
 
 {{< audio src="/audio/the-meaning-of-life-after-religion-1.mp3" >}}
 
----
 
-**Part 2**
+**Part 2: What is the real meaning of life?**
 
 {{< audio src="/audio/the-meaning-of-life-after-religion-2.mp3" >}}
+
+---
 
 ### The Universal Path of Mystics
 
