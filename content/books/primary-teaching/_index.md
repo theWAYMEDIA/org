@@ -8,7 +8,7 @@ weight: 5
 type: primary-teaching
 ---
 
-*Primary Teaching theWAY: the Nature of Existence, the Purpose of Life, and the Spiritual Path* is the foundational text of Wayism — a compilation of ancient teachings that span millennia and traverse the globe, edited by Salvar Dàosenglu and presented in English for the first time.
+*Primary Teaching theWAY: the Nature of Existence, the Purpose of Life, and the Spiritual Path* is the foundational text of Wayism — a compilation of ancient teachings that span millennia and traverse the globe, edited by Salvar Dàosenglu and presented in English for the first time in 1998. Modern English language editing completed in 2025.
 
 This work offers a comprehensive exploration of Wayist spirituality, its core principles, and practices. It covers fundamental concepts such as the nature of existence, the purpose of life, and the journey of spiritual evolution known as the Butterfly Path. It elucidates the Wayist understanding of the soul, spirit, and the divine, offering insights into the process of spiritual rebirth and transformation.
 
