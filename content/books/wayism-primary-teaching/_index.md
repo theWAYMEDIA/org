@@ -26,6 +26,8 @@ book_weight: 1
 
 In your hands rests access to a treasure trove of ancient wisdom — a meticulously compiled compendium of teachings that span millennia and traverse the globe. This foundational sacred text offers profound spiritual insights that have guided seekers on the path of transformation since time immemorial.
 
+**[Read Online →](/books/primary-teaching/)**
+
 Salvar Dàosenglu speaks not as an individual but as the voice of a collective — a dedicated team of scholars, practitioners, and translators who have labored across continents and cultures for decades. Their shared passion has been to bring these timeless teachings into contemporary accessibility while preserving their sacred transmission quality.
 
 **Primary Teaching** serves as the **ontological bedrock** of Wayism, establishing the complete philosophical framework for understanding existence, consciousness, and spiritual purpose. This ancient wisdom compilation provides the foundational structure upon which all subsequent Wayist teaching rests.
