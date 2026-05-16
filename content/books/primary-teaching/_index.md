@@ -1,5 +1,5 @@
 ---
-title: "Primary Teaching theWAY"
+title: "Primary Teaching Wayism"
 description: "The foundational text of Wayism: the nature of existence, the purpose of life, and the spiritual path. 116 chapters available to read online."
 date: 2026-01-01
 isbn: "978-1-997681-25-0"
@@ -13,6 +13,8 @@ type: primary-teaching
 This work offers a comprehensive exploration of Wayist spirituality, its core principles, and practices. It covers fundamental concepts such as the nature of existence, the purpose of life, and the journey of spiritual evolution known as the Butterfly Path. It elucidates the Wayist understanding of the soul, spirit, and the divine, offering insights into the process of spiritual rebirth and transformation.
 
 This book serves as both an introduction for newcomers and a deepening of understanding for long-time practitioners. It bridges the gap between ancient wisdom and contemporary life, offering a path of spiritual growth that is both profound and practical.
+
+*Online edition ISBN: 978-1-997681-25-0 | Copyright 2026 Caminismo A.C. (Mexico) |*
 
 ---
 
