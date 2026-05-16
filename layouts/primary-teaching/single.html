@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article class="book-chapter">
+    {{ with .Params.part }}<div class="chapter-part-label">{{ . }}</div>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="chapter-subtitle">{{ . }}</p>{{ end }}
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+    {{ partial "smart-book-nav.html" . }}
+    <aside class="buy-the-book">
+        <p>Finding this teaching valuable? The print edition is available at bookstores and on Amazon.</p>
+        <a href="/books/primary-teaching/#buy" class="cta-button">Buy the Book</a>
+    </aside>
+    <footer class="chapter-copyright">
+        <p>© 2026 Caminismo A.C. Web edition of <em>Primary Teaching theWAY</em> (ISBN 978-1-997681-25-0). All rights reserved. No reproduction without written permission.</p>
+    </footer>
+</article>
+{{ end }}

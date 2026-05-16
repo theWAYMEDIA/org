@@ -112,6 +112,7 @@ Ready to explore the Butterfly Path with others? Connect with fellow seekers wor
 
 When you're ready to understand the Butterfly Path more deeply:
 
+- **[Primary Teaching theWAY](/books/primary-teaching/)** — The foundational text, 116 chapters online
 - [What is Karma Really?](/philosophy/karma/) - Not punishment, but your personalized curriculum
 - [The Soul's Journey](/philosophy/soul-evolution/) - Why we incarnate as humans
 - [Living Wayism Daily](/practice/daily-wisdom/) - Practical applications for modern life
