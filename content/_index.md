@@ -20,7 +20,7 @@ This is not metaphor—it describes the literal purpose of human existence: soul
 
 ### The Ancient Path, Many Names
 
-The concept we call "Wayism" in English is ancient—far older than the English language itself. This understanding appears in early Mesopotamian texts, in Chinese philosophy as **DaoFa** (道法), in Sanskrit as **Mahamarga** (महामार्ग), in German as **der Weg** or **Wegismus**, in Spanish as **Caminismo**. Every culture that discovered this reality gave it their own name, but the teaching remains identical: the path of soul evolution toward spiritual immortality. We are one teaching, expressed in the languages and wisdom traditions of every land.
+The concept we call "Wayism" in English is ancient—far older than the English language itself. This understanding appears in early Mesopotamian texts, in Chinese philosophy as **DaoFa** (道法), in Japanese as **[Michibito](https://michibito.org)** (道人), in Sanskrit as **[Mahamarga](https://mahamarga.org)** (महामार्ग), in German as **der Weg** or **Wegismus**, in Spanish as **[Caminismo](https://caminismo.org)**. Every culture that discovered this reality gave it their own name, but the teaching remains identical: the path of soul evolution toward spiritual immortality. We are one teaching, expressed in the languages and wisdom traditions of every land.
 
 ## Core Understanding
 
