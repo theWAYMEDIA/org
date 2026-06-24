@@ -28,7 +28,7 @@ Traditional religious views often present reincarnation as either punishment/rew
 **Paradise Stay (Integration and Preparation):**
 - Processing and integrating wisdom from the completed life
 - Healing from traumatic experiences and celebrating victories
-- Planning next incarnation curriculum based on development needs
+- Receiving next incarnation curriculum as assigned by the Law of Karma based on development needs
 - Rest and communion with other souls at similar development levels
 
 **Rebirth (New Curriculum Assignment):**
@@ -56,7 +56,7 @@ Every soul receives personal guidance from their assigned Divine Tara (advanced 
 - Guides you through the death transition
 - Helps you "book into" Paradise for your stay
 - Provides support during life processing and integration
-- Assists in planning your next incarnation curriculum
+- Supports you as the Law of Karma assigns your next incarnation curriculum
 - Remains your consistent guide across all lifetimes
 
 ### The Integration Process
