@@ -6,7 +6,7 @@
     <img class="author-profile-photo" src="{{ .Params.image }}" alt="{{ .Title }}">
     {{ end }}
     <div class="author-profile-info">
-      <h1>{{ .Title }}</h1>
+      {{ if not (strings.HasPrefix (strings.TrimSpace .Content) "<h1") }}<h1>{{ .Title }}</h1>{{ end }}
       {{ if .Params.bio }}
       <p class="author-profile-bio">{{ .Params.bio | markdownify }}</p>
       {{ end }}

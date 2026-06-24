@@ -6,7 +6,7 @@
         <img src="{{ .Params.photo }}" alt="{{ .Title }}" class="artist-photo">
         {{ end }}
         <div class="artist-header-info">
-            <h1>{{ .Title }}</h1>
+            {{ if not (strings.HasPrefix (strings.TrimSpace .Content) "<h1") }}<h1>{{ .Title }}</h1>{{ end }}
             {{ with .Params.genre }}<p class="artist-genre">{{ . }}</p>{{ end }}
             {{ with .Params.label }}<p class="artist-label">Released under {{ . }}</p>{{ end }}
             {{ with .Params.wayist_thread }}<blockquote class="artist-thread">{{ . }}</blockquote>{{ end }}

@@ -1,7 +1,7 @@
 {{ define "main" }}
 <!-- DEBUG: Page Type: {{ .Type }}, Kind: {{ .Kind }}, Section: {{ .Section }} -->
 <div class="faq-index">
-    <h1>{{ .Title }}</h1>
+    {{ if not (strings.HasPrefix (strings.TrimSpace .Content) "<h1") }}<h1>{{ .Title }}</h1>{{ end }}
     
     {{ if .Content }}
     <div class="faq-description">{{ .Content }}</div>
