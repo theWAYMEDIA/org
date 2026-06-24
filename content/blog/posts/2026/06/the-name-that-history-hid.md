@@ -1,5 +1,6 @@
 ---
 title: "The Name That History Hid"
+author: "Teacher Pradeep"
 date: 2026-06-24
 categories: "History & Teaching"
 tags: ["Mary Magdalene", "Magadh", "Kashmir", "India", "MahaMarga", "Jesus", "history of Wayism", "Butterfly Path", "soul evolution", "Divine Feminine"]
