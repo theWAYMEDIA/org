@@ -38,6 +38,9 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify --baseURL "https://wayism.org/"
 
+      - name: Index with Pagefind
+        run: npx pagefind --site public
+
       - name: Debug Hugo Output
         run: |
           echo "=== HUGO LIST ALL ==="

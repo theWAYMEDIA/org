@@ -87,6 +87,9 @@ menu:
     - name: "FAQ"
       url: "/faq/"
       weight: 30
+    - name: "Search"
+      url: "/search/"
+      weight: 32
     - name: "Books"
       url: "/books/"
       weight: 35
