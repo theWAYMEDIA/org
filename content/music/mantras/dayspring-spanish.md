@@ -11,10 +11,10 @@ copyright: "Music © 2026 theWAY Media"
 # Mantra del Ritual del Amanecer
 **Oṃ Mārge Prabhāta Vandanam**
 
-Performed by [Collectivo Mariposa](/music/collectivo-mariposa/)
+Performed by [Collectivo Mariposa](https://wayism.net/artists/collectivo-mariposa/)
 Music: Wayist Traditional · © 2026 theWAY Media
 
-Also available in: [English](/lyrics/dayspring-ritual-mantra/) · [German](/lyrics/tagesanbruch-ritualmantra/)
+Also available in: [English](/music/mantras/dayspring-ritual/) · [German](/music/mantras/dayspring-german/)
 
 ---
 
@@ -64,7 +64,7 @@ Aum...
 
 ## Wayist Insight
 
-Esta es la versión en español del Mantra del Ritual del Amanecer. Para el comentario teológico completo sobre el sánscrito y la práctica de la purificación matutina, véase la [versión en inglés](/lyrics/dayspring-ritual-mantra/).
+Esta es la versión en español del Mantra del Ritual del Amanecer. Para el comentario teológico completo sobre el sánscrito y la práctica de la purificación matutina, véase la [versión en inglés](/music/mantras/dayspring-ritual/).
 
 The Spanish rendering brings a natural intimacy to this morning prayer. "Hermosamente desordenado de aprendizaje" (beautifully messy with learning) embraces the day ahead without pretence. "Mírame levantarme otra vez" (watch me rise again) and "Muéstrame dónde me equivoqué" (show me where I went wrong) carry the soul-in-school teaching with the directness of a child talking to a parent — which is exactly what this prayer is.
 

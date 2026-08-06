@@ -31,3 +31,5 @@ The Wayist worldview running through his songs isn't announced. It's in the deta
 ---
 
 All music released under theWAY Media. Rights donated to the Wayism Community, keeping these teachings freely accessible.
+
+Full catalog and streaming links (Spotify, Apple Music): **[Chuck Horace on wayism.net →](https://wayism.net/artists/chuck-horace/)**

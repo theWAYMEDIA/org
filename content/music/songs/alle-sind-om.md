@@ -11,11 +11,11 @@ copyright: "© elCamino de Caminismo A.C., Mexico · Music © 2026 theWAY Media"
 # Alle Sind OM
 **All Are OM — German Devotional Version**
 
-Performed by [Artist](/music/artist-slug/)
+*Not yet recorded — awaiting a performing artist.*
 Songwriter: High Mountain Story Uncle
 © elCamino de Caminismo A.C., Mexico · Music © 2026 theWAY Media
 
-Related: [Om Mārge Sarva Om — full teaching dharani](/lyrics/om-marge-sarva-om-german/)
+Related: [Om Mārge Sarva Om — full teaching dharani](/music/dharanis/om-marge-sarva-om-german/)
 
 ---
 
@@ -55,7 +55,7 @@ The key teachings are all present: universal energy pervading all things, consci
 
 "Lebendige Nachbarn, nah und weit" (living neighbours, near and far) carries the Wayist understanding that all beings around us are conscious energy — neighbours in the deepest sense. And "Geistwesen, Licht und Kraft" (spirit-beings, light and power) names what we are: not bodies with spirits, but spirit-beings composed of light and energy.
 
-For the full theological commentary on this teaching, see the [Om Mārge Sarva Om teaching dharani](/lyrics/om-marge-sarva-om-german/).
+For the full theological commentary on this teaching, see the [Om Mārge Sarva Om teaching dharani](/music/dharanis/om-marge-sarva-om-german/).
 
 ---
 *Mantras marked "Wayist Traditional" are public domain sacred chants preserved within theWAY lineage.*

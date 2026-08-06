@@ -11,10 +11,10 @@ copyright: "Music © 2026 theWAY Media"
 # Tagesanbruch-Ritualmantra
 **Oṃ Mārge Prabhāta Vandanam**
 
-Performed by [Collectivo Mariposa](/music/collectivo-mariposa/)
+Performed by [Collectivo Mariposa](https://wayism.net/artists/collectivo-mariposa/)
 Music: Wayist Traditional · © 2026 theWAY Media
 
-Also available in: [English](/lyrics/dayspring-ritual-mantra/) · [Spanish](/lyrics/mantra-del-ritual-del-amanecer/)
+Also available in: [English](/music/mantras/dayspring-ritual/) · [Spanish](/music/mantras/dayspring-spanish/)
 
 ---
 
@@ -64,7 +64,7 @@ Aum...
 
 ## Wayist Insight
 
-Dies ist die deutsche Fassung des Tagesanbruch-Ritualmantra. Für den vollständigen theologischen Kommentar über das Sanskrit und die Morgenreinigungspraxis, siehe die [englische Version](/lyrics/dayspring-ritual-mantra/).
+Dies ist die deutsche Fassung des Tagesanbruch-Ritualmantra. Für den vollständigen theologischen Kommentar über das Sanskrit und die Morgenreinigungspraxis, siehe die [englische Version](/music/mantras/dayspring-ritual/).
 
 The German rendering captures the disarming honesty of this morning prayer with particular warmth. "Wunderschön chaotischer Lerntag" (beautifully chaotic learning day) embraces the mess of spiritual growth. "Sieh mich wieder aufstehen" (watch me rise again) is the soul's quiet confidence — not that it won't fall, but that it will get back up.
 

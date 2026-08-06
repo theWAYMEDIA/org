@@ -11,11 +11,11 @@ copyright: "Music production © 2026 theWAY Media. All rights reserved."
 # Todos Somos OM
 **All Are OM — Versión Devocional en Español**
 
-Performed by [Collectivo Mariposa](/music/collectivo-mariposa)
+Performed by [Collectivo Mariposa](https://wayism.net/artists/collectivo-mariposa/)
 Songwriter: Wayist Traditional
 © 2026 theWAY Media. All rights reserved.
 
-Related: [Om Mārge Sarva Om — dharani de enseñanza completa](/lyrics/om-marge-sarva-om-spanish/)
+Related: [Om Mārge Sarva Om — dharani de enseñanza completa](/music/dharanis/om-marge-sarva-om-spanish/)
 
 ---
 
@@ -55,7 +55,7 @@ This is the flowing Spanish devotional version of the "All Are OM" teaching. All
 
 "Vecinos vivos en derredor" (living neighbours all around) expresses the Wayist understanding that every being surrounding us is alive with consciousness — neighbour is not a moral category but an ontological reality. "Seres de espíritu y luz" (beings of spirit and light) names our true nature.
 
-For the full theological commentary, see the [Om Mārge Sarva Om teaching dharani](/lyrics/om-marge-sarva-om-spanish/).
+For the full theological commentary, see the [Om Mārge Sarva Om teaching dharani](/music/dharanis/om-marge-sarva-om-spanish/).
 
 ---
 

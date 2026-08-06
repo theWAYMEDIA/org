@@ -11,7 +11,7 @@ copyright: "Music by Claudette Sky · © 2026 theWAY Media"
 # Om Mārge Paragate
 **Wayist Paragate Dharani**
 
-Performed by [Collectivo Mariposa](/music/collectivo-mariposa/)
+Performed by [Collectivo Mariposa](https://wayism.net/artists/collectivo-mariposa/)
 Music by Claudette Sky · © 2026 theWAY Media
 
 Note: Wayism inherited a version of this mantra with slight differences from that used in Advaita tradition — the use of "bodhini" being one such change.

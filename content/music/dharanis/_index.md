@@ -45,7 +45,7 @@ The Paragate dharani in Spanish — for Caminista practitioners and Spanish-spea
 *Sanskrit / Spanish — Wayist Traditional*
 
 ### [Om Yesu Dharani](/music/dharanis/om-yesu-dharani/)
-The Energy Abounds teaching dharani — honouring Lord Yesu's teaching that divine energy permeates all things, all beings are conscious neighbours, and "So Ham" (I Am That) is the recognition at the heart of Wayism. Performed by Colectivo Mariposa.
+The Energy Abounds teaching dharani — honouring Lord Yesu's teaching that divine energy permeates all things, all beings are conscious neighbours, and "So Ham" (I Am That) is the recognition at the heart of Wayism. Performed by Collectivo Mariposa.
 *Sanskrit / English — Wayist Traditional*
 
 ### [Om Mārge Sarva Om — English](/music/dharanis/om-marge-sarva-om-english/)

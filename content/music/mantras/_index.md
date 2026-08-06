@@ -16,7 +16,7 @@ Mantras in the Wayist canon draw from the long inheritance of DaoFa, Mahamarga, 
 
 ## How to Use Mantras
 
-**Formal sitting practice:** Choose one mantra. Sit quietly. Repeat the mantra silently or aloud, returning attention to it each time the mind wanders. Duration matters less than regularity.
+**Comfortable sitting practice:** Choose one mantra. Sit quietly. Repeat the mantra silently or aloud, returning attention to it each time the mind wanders. Duration matters less than regularity.
 
 **Attitude of Meditation:** A short mantra can run as a quiet background thread through ordinary daily activity — washing dishes, walking, waiting. This is the *attitude* of meditation: continuous low-level attentiveness rather than discrete formal sessions.
 

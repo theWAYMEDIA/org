@@ -11,10 +11,10 @@ copyright: "Lyrics by Claudette Sky · © 2026 theWAY Media"
 # Ven a la Madre
 **Poema Desde la Cruz**
 
-Performed by [Copllectivo Mariposa](/music/collectivo-mariposa/)
+Performed by [Collectivo Mariposa](https://wayism.net/artists/collectivo-mariposa/)
 Lyrics by Claudette Sky · © 2026 theWAY Media
 
-Also available in: [English](/lyrics/poem-from-the-cross/)
+Also available in: [English](/music/dharanis/poem-from-the-cross/)
 
 ---
 
@@ -43,7 +43,7 @@ En oscuridad sagrada, la Madre espera
 
 ## Wayist Insight
 
-Esta es la versión en español del Poema Desde la Cruz. Para el comentario teológico completo sobre el sánscrito y la tradición oral wayista de la enseñanza final de Jesús, véase la [versión en inglés](/lyrics/poem-from-the-cross/).
+Esta es la versión en español del Poema Desde la Cruz. Para el comentario teológico completo sobre el sánscrito y la tradición oral wayista de la enseñanza final de Jesús, véase la [versión en inglés](/music/dharanis/poem-from-the-cross/).
 
 The Spanish rendering carries particular power. "Ven a la Madre" (Come to the Mother) opens each invitation with the intimate tú form implied — this is not a formal summons but a tender call. "Sé transformado" (be transformed) names what the Union accomplishes. "Lo invisible profundo" (the deep invisible) captures what śabda reveals: the sacred sound makes visible what was hidden.
 

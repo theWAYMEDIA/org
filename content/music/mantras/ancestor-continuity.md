@@ -11,7 +11,7 @@ copyright: "Music © 2026 theWAY Media"
 # Om Mārge Pitṝṇām Jñānam
 **Ancestor Continuity Mantra**
 
-Performed by [Artist](/music/artist-slug/)
+*Not yet recorded — awaiting a performing artist.*
 Music: Wayist Traditional · © 2026 theWAY Media
 
 ---

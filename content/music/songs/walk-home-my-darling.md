@@ -4,7 +4,7 @@ description: "A sacred farewell song for the dying — offering peace, Tara's co
 weight: 10
 
 # Music metadata
-artist: "Maya Sabda, MariceQ, Bibimus Cor, and others"
+artist: "Maya Sabda, Collectivo Mariposa, Bibimus Cor, and others"
 language: "English"
 songwriter: "Claudette Sky"
 copyright: "© 2024 elCamino de Caminismo A.C., Mexico"
@@ -52,9 +52,11 @@ Wayism does not view death as punishment, failure, or loss for the one dying. Dy
 
 ## Listen
 
-Recorded by several artists — available on major streaming platforms. Search by artist name or song title.
+Recorded by three artists, each with their own version on wayism.net:
 
-**Artists:** Maya Sabda · MariceQ · Bibimus Cor · and others
+- **[Maya Sabda's version →](https://wayism.net/songs/walk-home-my-darling/)**
+- **[Collectivo Mariposa's version →](https://wayism.net/songs/walk-home-my-darling-2/)**
+- **[Bibimus Cor's version →](https://wayism.net/songs/walk-home-my-darling-3/)**
 
 For licensing inquiries: **[caminismo.org](https://caminismo.org)**
 

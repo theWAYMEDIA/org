@@ -35,3 +35,5 @@ His songs draw from a Wayist life-view: the soul's quiet awakening, divine prese
 ---
 
 All music released under theWAY Media. Rights donated to the Wayism Community, keeping these teachings freely accessible.
+
+Full catalog and streaming links: **[MauriceQ on wayism.net →](https://wayism.net/artists/mauriceq/)**

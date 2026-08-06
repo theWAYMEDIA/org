@@ -5,7 +5,7 @@ weight: 10
 
 # Music metadata
 artist: "Collectivo Mariposa"
-artist_url: "https://wayism.net/music/collectivo-mariposa/"
+artist_url: "https://wayism.net/artists/collectivo-mariposa/"
 language: "Sanskrit"
 copyright: "Music © 2026 theWAY Media"
 ---
@@ -88,7 +88,7 @@ The closing *svaḥ* is not the familiar ritual exclamation *svāhā* but the Ve
 
 Recorded by **Collectivo Mariposa** — available on major streaming platforms:
 
-**[Collectivo Mariposa →](https://wayism.net/music/collectivo-mariposa/)**
+**[Collectivo Mariposa →](https://wayism.net/artists/collectivo-mariposa/)**
 
 ---
 

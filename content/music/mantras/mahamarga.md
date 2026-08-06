@@ -11,7 +11,7 @@ copyright: "Music © 2026 theWAY Media"
 # Om Mārge Mahāmārga
 **The Great Path Mantra**
 
-Performed by [Collectivo Mariposa](/music/collectivo-mariposa/)
+Performed by [Collectivo Mariposa](https://wayism.net/artists/collectivo-mariposa/)
 Music: Wayist Traditional · © 2026 theWAY Media
 
 ---
@@ -49,4 +49,4 @@ The closing English lines carry a quietly radical claim: *all* humans are on thi
 *Music production © 2026 theWAY Media. All rights reserved.*
 
 ---
-
+Listen here: https://too.fm/9db6jnm

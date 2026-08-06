@@ -11,7 +11,7 @@ copyright: "Music © 2026 theWAY Media"
 # Om Mārge Tārā Rakṣaṇa
 **Tara Companion Mantra**
 
-Performed by [Collectivo Mariposa](/music/collectivo-mariposa/)
+Performed by [Collectivo Mariposa](https://wayism.net/artists/collectivo-mariposa/)
 Music: Wayist Traditional · © 2026 theWAY Media
 
 ---

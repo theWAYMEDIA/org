@@ -12,11 +12,11 @@ copyright: "© elCamino de Caminismo A.C., Mexico · Music © 2026 theWAY Media"
 **In THE WAY, All Are OM**
 English Teaching Dharani
 
-Performed by [Artist](/music/artist-slug/)
+*Not yet recorded — awaiting a performing artist.*
 Songwriter: Claudette Sky
 © elCamino de Caminismo A.C., Mexico · Music © 2026 theWAY Media
 
-Also available in: [German](/lyrics/om-marge-sarva-om-german/) · [Spanish](/lyrics/om-marge-sarva-om-spanish/)
+Also available in: [German](/music/dharanis/om-marge-sarva-om-german/) · [Spanish](/music/dharanis/om-marge-sarva-om-spanish/)
 
 ---
 

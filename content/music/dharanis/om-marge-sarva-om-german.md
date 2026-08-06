@@ -12,11 +12,11 @@ copyright: "© elCamino de Caminismo A.C., Mexico · Music © 2026 theWAY Media"
 **Im WEG, Alle sind OM**
 Deutsche Lehr-Dharani
 
-Performed by [Artist](/music/artist-slug/)
+*Not yet recorded — awaiting a performing artist.*
 Songwriter: High Mountain Story Uncle
 © elCamino de Caminismo A.C., Mexico · Music © 2026 theWAY Media
 
-Also available in: [English](/lyrics/om-marge-sarva-om-english/) · [Spanish](/lyrics/om-marge-sarva-om-spanish/)
+Also available in: [English](/music/dharanis/om-marge-sarva-om-english/) · [Spanish](/music/dharanis/om-marge-sarva-om-spanish/)
 
 ---
 
@@ -95,7 +95,7 @@ Om... Om... Om...
 
 ## Wayist Insight
 
-This is the German teaching version of the comprehensive Wayist dharani Om Mārge Sarva Om. The Sanskrit verse carries the full cosmological teaching; the German verse walks through its meaning as a literal pedagogical rendering. For the complete theological commentary, see the [English teaching dharani](/lyrics/om-marge-sarva-om-english/).
+This is the German teaching version of the comprehensive Wayist dharani Om Mārge Sarva Om. The Sanskrit verse carries the full cosmological teaching; the German verse walks through its meaning as a literal pedagogical rendering. For the complete theological commentary, see the [English teaching dharani](/music/dharanis/om-marge-sarva-om-english/).
 
 The German translation preserves key theological choices: DEM and DAS render the Sanskrit Tat (THAT) — the Absolute beyond form. "Das bist Du, Ich bin Das" directly translates the mahavakya dialog: Source says "That thou art," the soul responds "I am That." The divine names Amitabha and Pandarajanani are kept untranslated across all language versions to maintain teaching consistency — these are names, not concepts, and they name the same beings regardless of the language being sung.
 

@@ -11,7 +11,7 @@ copyright: "Lyrics by Claudette Sky · © 2026 theWAY Media"
 # Ehi Elaya Ramaya
 **Poem from the Cross**
 
-Performed by [Collectivo Mariposa](/music/collectivo-mariposa/)
+Performed by [Collectivo Mariposa](https://wayism.net/artists/collectivo-mariposa/)
 Lyrics by Claudette Sky · © 2026 theWAY Media
 
 ---

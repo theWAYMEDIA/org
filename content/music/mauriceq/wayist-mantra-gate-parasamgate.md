@@ -9,7 +9,7 @@ copyright: "Lyrics & Music by Claudette Sky · © 2026 theWAY Media"
 listen_url: "https://too.fm/xyreb6p"
 ---
 
-Performed by [MauriceQ](/music/mauriceq/) and [Collectivo Mariposa](/music/collectivo-mariposa/)
+Performed by [MauriceQ](/music/mauriceq/) and [Collectivo Mariposa](https://wayism.net/artists/collectivo-mariposa/)
 Lyrics & Music by Claudette Sky · © 2026 theWAY Media
 
 ---

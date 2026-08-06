@@ -12,11 +12,11 @@ copyright: "© elCamino de Caminismo A.C., Mexico · Music © 2026 theWAY Media"
 **En EL CAMINO, Todos Somos OM**
 Dharani de Enseñanza en Español
 
-Performed by [Artist](/music/artist-slug/)
+*Not yet recorded — awaiting a performing artist.*
 Songwriter: High Mountain Story Uncle
 © elCamino de Caminismo A.C., Mexico · Music © 2026 theWAY Media
 
-Also available in: [English](/lyrics/om-marge-sarva-om-english/) · [German](/lyrics/om-marge-sarva-om-german/)
+Also available in: [English](/music/dharanis/om-marge-sarva-om-english/) · [German](/music/dharanis/om-marge-sarva-om-german/)
 
 ---
 
@@ -95,7 +95,7 @@ Om... Om... Om...
 
 ## Wayist Insight
 
-Esta es la versión en español de la dharani integral wayista Om Mārge Sarva Om. El verso sánscrito lleva toda la enseñanza cosmológica; el verso en español recorre su significado como una versión pedagógica literal. Para el comentario teológico completo, véase la [dharani de enseñanza en inglés](/lyrics/om-marge-sarva-om-english/).
+Esta es la versión en español de la dharani integral wayista Om Mārge Sarva Om. El verso sánscrito lleva toda la enseñanza cosmológica; el verso en español recorre su significado como una versión pedagógica literal. Para el comentario teológico completo, véase la [dharani de enseñanza en inglés](/music/dharanis/om-marge-sarva-om-english/).
 
 This is the Spanish teaching version of the comprehensive Wayist dharani Om Mārge Sarva Om. The Spanish translation renders Tat (THAT/the Absolute) as ESO — the standard Upanishadic choice in Spanish. "Eso Eres Tú, Yo Soy Eso" preserves the mahavakya dialog: Source declares "That thou art," the soul responds "I am That." As in all language versions, the divine names Amitabha and Pandarajanani are kept untranslated — these are names of actual beings, not translatable concepts.
 

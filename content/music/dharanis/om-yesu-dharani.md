@@ -1,7 +1,7 @@
 ---
 title: "Om Yesu Dharani"
 subtitle: "The Energy Abounds Teaching"
-artist: "Colectivo Mariposa (Rasheed)"
+artist: "Collectivo Mariposa (Rasheed)"
 tradition: "Wayist Traditional"
 languages: ["Sanskrit", "English"]
 tags: ["dharani", "Yesu", "energy", "consciousness", "So Ham", "neighbours"]
@@ -11,7 +11,7 @@ copyright: "Music by Claudette Sky · © 2026 theWAY Media"
 # Om Yesu Dharani
 **The Energy Abounds Teaching**
 
-Performed by [Colectivo Mariposa (Rasheed)](/music/collectivo-mariposa/)
+Performed by [Collectivo Mariposa (Rasheed)](https://wayism.net/artists/collectivo-mariposa/)
 Music by Claudette Sky · © 2026 theWAY Media
 
 ---

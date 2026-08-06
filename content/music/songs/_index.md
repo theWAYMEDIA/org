@@ -25,7 +25,7 @@ This is why songs appear in gathering contexts, in celebrations of solstices and
 ## Songs in This Collection
 
 ### [Walk Home My Darling](/music/songs/walk-home-my-darling/)
-A sacred farewell song for the dying — sung at the bedside by those who love them. Covers the Butterfly Path, Tara's companionship through death, and the promise of reunion in Sukhavati. Performed by lounge singers including Maya Sabda, MariceQ, and Bibimus Cor.
+A sacred farewell song for the dying — sung at the bedside by those who love them. Covers the Butterfly Path, Tara's companionship through death, and the promise of reunion in Sukhavati. Performed by lounge singers including Maya Sabda, Collectivo Mariposa, and Bibimus Cor.
 *English — Claudette Sky*
 
 ### [Alle Sind OM](/music/songs/alle-sind-om/)

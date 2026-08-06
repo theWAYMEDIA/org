@@ -11,7 +11,7 @@ copyright: "Music © 2026 theWAY Media"
 # Om Bhūr Bhuvaḥ Svaḥa
 **Wayist Gayatri Dharani**
 
-Performed by [Collectivo Mariposa](/music/collectivo-mariposa/)
+Performed by [Collectivo Mariposa](https://wayism.net/artists/collectivo-mariposa/)
 Music: Wayist Traditional · © 2026 theWAY Media
 
 ---

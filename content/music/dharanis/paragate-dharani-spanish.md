@@ -11,10 +11,10 @@ copyright: "Music by Claudette Sky · © 2026 theWAY Media"
 # Om Mārge Paragate
 **Dharani Caminista del Paragate**
 
-Performed by [Artist](/music/artist-slug/)
+*Not yet recorded — awaiting a performing artist.*
 Music by Claudette Sky · © 2026 theWAY Media
 
-Also available in: [English](/lyrics/om-marge-paragate/)
+Also available in: [English](/music/dharanis/paragate-dharani/)
 
 ---
 
@@ -56,7 +56,7 @@ De ignorancia por amor a la orilla final
 
 ## Wayist Insight
 
-Esta es la versión en español de la Dharani del Paragate Wayista. Para el comentario teológico completo sobre el mantra Gate y sus distinciones wayistas, véase la [versión en inglés](/lyrics/om-marge-paragate/).
+Esta es la versión en español de la Dharani del Paragate Wayista. Para el comentario teológico completo sobre el mantra Gate y sus distinciones wayistas, véase la [versión en inglés](/music/dharanis/paragate-dharani/).
 
 The Spanish verses make the Wayist reading of the Gate mantra vivid and personal. "Desde ignorancia encontré Tu amor" — from ignorance I found Your love — names the catalyst of transformation not as knowledge or effort but as encounter with divine love. "Gracias a Ti, presencia soberana" (Thanks to You, sovereign presence) carries the distinctly Wayist emphasis on gratitude: the soul did not arrive at the furthest shore alone. Someone helped. Someone guided.
 
