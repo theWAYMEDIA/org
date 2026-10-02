@@ -40,6 +40,12 @@ And emerges as a butterfly of spirit."
 
 ---
 
+### Wayism: The Butterfly Path (Lyric Video)
+
+{{< video src="/videos/wayism-butterfly-path-lyric-full.mp4" >}}
+
+---
+
 ## What Wayism Offers
 
 ### Clear Understanding
