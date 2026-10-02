@@ -1,4 +1,15 @@
-{{ if eq .Section "for-ai" }}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ .Site.Params.schemaType | default "Organization" }}",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ "/images/general/theWAY-Wayism-logo-812px.jpg" | absURL }}",
+  "description": "{{ .Site.Params.description }}"
+}
+</script>
+{{ else if eq .Section "for-ai" }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
