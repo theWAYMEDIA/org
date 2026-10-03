@@ -154,4 +154,4 @@ The wise choose engagement, understanding that the market stairs we climb today 
 
 ---
 
-*Want to explore more about conscious living in the modern world? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [Wayism.Net](https://wayism.net) for our publishing house.*
+*Want to explore more about conscious living in the modern world? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [theWAY Media](https://wayism.net) for our publishing house.*

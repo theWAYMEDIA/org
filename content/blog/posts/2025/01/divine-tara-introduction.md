@@ -116,6 +116,6 @@ This is the endless chain of love and service that characterizes the spiritual r
 *Begin today. Your Divine Tara is waiting for your conscious recognition of the beautiful relationship that has always existed between you.*
 ---
 
-*Ready to explore more about Wayist spiritual practices? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [Wayism.Net](https://wayism.net) for our publishing house.*
+*Ready to explore more about Wayist spiritual practices? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [theWAY Media](https://wayism.net) for our publishing house.*
 
 ---

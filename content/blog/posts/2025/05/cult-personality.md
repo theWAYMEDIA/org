@@ -147,4 +147,4 @@ True spiritual authority comes not from personality cult status, but from the qu
 
 ---
 
-*Ready to explore more about authentic spiritual development? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [Wayism.Net](https://wayism.net) for our publishing house.*
+*Ready to explore more about authentic spiritual development? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [theWAY Media](https://wayism.net) for our publishing house.*

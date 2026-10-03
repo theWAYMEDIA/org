@@ -126,4 +126,4 @@ The monastery walls that once seemed necessary for spiritual development dissolv
 
 ---
 
-*Want to explore more about engaged spirituality in daily life? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [Wayism.Net](https://wayism.net) for our publishing house.*
+*Want to explore more about engaged spirituality in daily life? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [theWAY Media](https://wayism.net) for our publishing house.*

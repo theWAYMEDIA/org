@@ -68,7 +68,7 @@ This collective emerges during what they term the "present renewal"—a time whe
 
 To encounter Salvar Dàosenglu through their texts is to experience wisdom that feels simultaneously ancient and immediately relevant. Whether exploring the nature of existence, the purpose of life, or practical spiritual development, readers find in this collective voice an invaluable companion for the journey of awakening.
 
-Their work continues through the vibrant digital community at Wayist.Life and the publisher's catalogue at Wayism.Net, ensuring these restored teachings remain accessible to seekers worldwide.
+Their work continues through the vibrant digital community at Wayist.Life and the publisher's catalogue at theWAY Media (wayism.net), ensuring these restored teachings remain accessible to seekers worldwide.
 
 ## Recent Contributions
 

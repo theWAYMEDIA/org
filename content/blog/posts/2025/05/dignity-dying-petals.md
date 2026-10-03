@@ -88,4 +88,4 @@ In this simple practice of allowing dying flowers to complete their offering, I'
 
 ---
 
-*Ready to explore more about Wayist contemplative practices? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [Wayism.Net](https://wayism.net) for our publishing house.*
+*Ready to explore more about Wayist contemplative practices? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [theWAY Media](https://wayism.net) for our publishing house.*

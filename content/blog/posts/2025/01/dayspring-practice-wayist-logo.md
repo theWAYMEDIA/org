@@ -157,6 +157,6 @@ The lotus blooms in muddy water. So do we.
 
 ---
 
-*Ready to deepen your understanding? Explore comprehensive teachings at [Wayism.org](https://wayism.org), connect with our global community at [Wayism.Life](https://wayism.life), or develop practical skills at [Wayism.Net](https://wayism.net).*
+*Ready to deepen your understanding? Explore comprehensive teachings at [Wayism.org](https://wayism.org), connect with our global community at [Wayism.Life](https://wayism.life), or develop practical skills at [theWAY Media](https://wayism.net).*
 
 *For daily inspiration and community connection, follow [@wayistcoach on X](https://twitter.com/wayistcoach).*

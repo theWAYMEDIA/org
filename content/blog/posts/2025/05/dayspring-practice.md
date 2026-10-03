@@ -139,4 +139,4 @@ Have you noticed how water affects your energy and awareness? The Dayspring prac
 
 ---
 
-*Ready to explore more simple yet profound Wayist practices? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [Wayism.Net](https://wayism.net) for our publishing house.*
+*Ready to explore more simple yet profound Wayist practices? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [theWAY Media](https://wayism.net) for our publishing house.*

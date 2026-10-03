@@ -97,4 +97,4 @@ The royal visit is over, but the teaching continues in every moment we choose pr
 
 ---
 
-*Ready to explore more about finding the sacred in nature encounters? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [Wayism.Net](https://wayism.net) for our publishing house.*
+*Ready to explore more about finding the sacred in nature encounters? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [theWAY Media](https://wayism.net) for our publishing house.*

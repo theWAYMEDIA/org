@@ -106,4 +106,4 @@ The mantra that opens the heart to Tara's guidance and reminds us that home is a
 **Want to learn more about Mari of Magadha's transformation?**  
 Read "From Indian Brothels to Divine Guide: The true story of Mari who worked with Jesus from India to Jerusalem and became the foremost Wayist teacher" by Adele du Plessis & Jean Prieur du Plessis.
 
-*Ready to explore more about Wayist understanding of spiritual realms? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [Wayism.Net](https://wayism.net) for our publishing house.*
+*Ready to explore more about Wayist understanding of spiritual realms? Connect with fellow practitioners at [Wayist.Life](https://wayist.life). Visit [theWAY Media](https://wayism.net) for our publishing house.*

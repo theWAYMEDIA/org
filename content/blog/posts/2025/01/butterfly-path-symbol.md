@@ -167,6 +167,6 @@ This ancient symbol reminds us that transformation is not only possible but inev
 
 ---
 
-*Ready to explore your own Butterfly Path development? Connect with fellow travelers at [Wayism.Life](https://wayism.life), study comprehensive teachings at [Wayism.org](https://wayism.org), or develop practical skills at [Wayism.Net](https://wayism.net).*
+*Ready to explore your own Butterfly Path development? Connect with fellow travelers at [Wayism.Life](https://wayism.life), study comprehensive teachings at [Wayism.org](https://wayism.org), or develop practical skills at [theWAY Media](https://wayism.net).*
 
 *For daily inspiration and community connection, follow [@wayistcoach on X](https://twitter.com/wayistcoach).*
